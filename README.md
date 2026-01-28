@@ -31,3 +31,19 @@ python3 vlc-iptv.py
 sudo pacman -S vlc python-tk
 python vlc-iptv.py
 ```
+Windows/Mac: Download VLC → python vlc-iptv.py
+📱 Usage
+
+1. Run → Wait 15s (loading channels)
+2. Sports tab 🏟️ → Select → PLAY
+3. Free TV tab 📺 → Select → PLAY
+4. VLC opens automatically!
+
+🎯 Pro Tips
+
+    🔒 VPN recommended for geo-blocked channels
+    ⏱️ First load slow - caches 1500+ channels
+    🌐 Stream quality varies - community maintained
+    📡 Sources: iptv-org.github.io
+
+💖 Support the Dev
